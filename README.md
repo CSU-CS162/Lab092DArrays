@@ -1,10 +1,19 @@
 # Lab 18 - 2D Arrays
 This Tuesday lab will focus upon 2D Arrays, which is just arrays contained within arrays. These arrays become significantly more complex as we continue to nest them, which we can do, such as making an array that contains arrays which contain arays and so on. To focus upon 2D Arrays, students will be placing the final touches on a Connect4 application.
 
+
+
+    ARE WE USING JAVADOCS???
+    UPDATE MEEEEEE
+
+
+\
+ \
+  V
 For ease of access, here is the [javadoc](https://www.cs.colostate.edu/~cs163/javadoc/lab18/package-summary.html).
 
 ## Pre-Step:
-With nearly all Tuesday labs, you will want to compile and ensure that it works. Once you ensure this, it is a good idea to check out the `main` function and follow the program execution throughout both available files.
+Please compile the program and ensure that it works. After you have confirmed the program compiles and runs, it is a good idea to check out the `main` function and follow the program execution throughout both available files.
 
 If you are also unfamiliar with the game of Connect4, you can check out the [Wikipedia](https://en.wikipedia.org/wiki/Connect_Four) to learn more.
 
@@ -14,13 +23,13 @@ There are only two self-explanations that must be completed for this lab, these 
 2D Arrays can be difficult to visualize so that is why it is being urged to draw them!
 
 ## Step 2: Implementation
-After you finish with your self-explanations you are free to move onto implementing them within your own code, after implemented it may be helpful to draw-along with its execution to help solidify your understanding.
+After you finish with your self-explanations you are free to move onto implementing the two methods within your own code. After you have finished, it may be helpful to draw-along with the program's execution to help solidify your understanding.
 
 ## Step 3: Testing
-After finishing you implementation it will help to run through the game and try to create a victory case and see if it functions correctly. Optionally, you can also create more test to test all cases possible for victory conditions.
+It will also help to run through the game, try to create a victory case, and see if it functions correctly. Optionally, you can also create more tests to test all cases possible for victory conditions.
 
 ## Step 4: Turning In
-Once finished, be sure to submit your `TwoDArraysUtility.java`, there is no participation grade being taken for labs this week!
+Once finished, be sure to submit your `TwoDArraysUtility.java` through the link to ZyBooks on the class Canvas page. 
 
 # Additional Information
 ## 2D Arrays
