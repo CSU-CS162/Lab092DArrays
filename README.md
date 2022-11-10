@@ -1,4 +1,4 @@
-# Lab 18 - 2D Arrays
+# Lab 09 - 2D Arrays
 This Tuesday lab will focus upon 2D Arrays, which is just arrays contained within arrays. These arrays become significantly more complex as we continue to nest them, which we can do, such as making an array that contains arrays which contain arays and so on. To focus upon 2D Arrays, students will be placing the final touches on a Connect4 application.
 
 For ease of access, here is the [javadoc](https://csu-compsci-cs163-4.github.io/Lab182DArrays/package-summary.html).
